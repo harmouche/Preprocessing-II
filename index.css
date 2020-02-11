@@ -168,12 +168,6 @@ img {
   width: 100%;
   margin: 0 auto;
 }
-.nav a {
-  background-color: red;
-  display: flex;
-  align-items: space-evenly;
-  text-decoration: none;
-}
 .footer {
   width: 100%;
   border-top: 2px dashed silver;
@@ -184,40 +178,6 @@ img {
   color: #212529;
   font-size: 1.6rem;
   padding: 20px;
-}
-header {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
-  height: 5rem;
-  width: 90%;
-  font-size: 1.5rem;
-  border-bottom: 2px dashed lightgrey;
-  margin-left: 5%;
-}
-header .name {
-  font-size: 4rem;
-  font-family: 'Indie Flower', cursive;
-}
-header .nav1 {
-  display: flex;
-  width: 50%;
-  height: 4rem;
-  color: white;
-  text-decoration: none;
-  justify-content: space-between;
-  align-items: center;
-}
-header .nav1 a {
-  text-decoration: none;
-}
-.home .busimg {
-  margin: 2% 0;
-}
-.home .welcome {
-  border-bottom: 2px dashed lightgrey;
 }
 .home .content-section {
   margin: 30px 0;
